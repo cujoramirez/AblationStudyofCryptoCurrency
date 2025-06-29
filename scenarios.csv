@@ -1,0 +1,517 @@
+country,scenario,month,predicted_norm_volume
+United States,baseline,1,0.0018196327
+United States,baseline,2,0.0007296073
+United States,baseline,3,0.00078244915
+United States,baseline,4,0.00085436716
+United States,baseline,5,0.0007856475
+United States,baseline,6,0.0007733568
+United States,baseline,7,0.0008052199
+United States,baseline,8,0.0007846748
+United States,baseline,9,0.00075758004
+United States,baseline,10,0.0008052199
+United States,baseline,11,0.00075758004
+United States,baseline,12,0.000760914
+United States,no_classified_as_security,1,0.0018196327
+United States,no_classified_as_security,2,0.0007772471
+United States,no_classified_as_security,3,0.0007553544
+United States,no_classified_as_security,4,0.00085436716
+United States,no_classified_as_security,5,0.00080169196
+United States,no_classified_as_security,6,0.00079026335
+United States,no_classified_as_security,7,0.00089324487
+United States,no_classified_as_security,8,0.0008039802
+United States,no_classified_as_security,9,0.0008670156
+United States,no_classified_as_security,10,0.0008245253
+United States,no_classified_as_security,11,0.00089324487
+United States,no_classified_as_security,12,0.0008095688
+United States,no_classified_as_commodity,1,0.0018196327
+United States,no_classified_as_commodity,2,0.0006092779
+United States,no_classified_as_commodity,3,0.0008643401
+United States,no_classified_as_commodity,4,0.00074134156
+United States,no_classified_as_commodity,5,0.00082813785
+United States,no_classified_as_commodity,6,0.0007733568
+United States,no_classified_as_commodity,7,0.0007846748
+United States,no_classified_as_commodity,8,0.0008052199
+United States,no_classified_as_commodity,9,0.0008670156
+United States,no_classified_as_commodity,10,0.0008245253
+United States,no_classified_as_commodity,11,0.0008052199
+United States,no_classified_as_commodity,12,0.000760914
+United States,no_exchange_license_required,1,0.0018196327
+United States,no_exchange_license_required,2,0.0007926831
+United States,no_exchange_license_required,3,0.00090069533
+United States,no_exchange_license_required,4,0.0007651024
+United States,no_exchange_license_required,5,0.00076634216
+United States,no_exchange_license_required,6,0.00075758004
+United States,no_exchange_license_required,7,0.000760914
+United States,no_exchange_license_required,8,0.0008134684
+United States,no_exchange_license_required,9,0.0008052199
+United States,no_exchange_license_required,10,0.00075758004
+United States,no_exchange_license_required,11,0.0008206559
+United States,no_exchange_license_required,12,0.0007733568
+United States,no_license_intensity,1,0.001455899
+United States,no_license_intensity,2,0.000672331
+United States,no_license_intensity,3,0.0007611539
+United States,no_license_intensity,4,0.0007970909
+United States,no_license_intensity,5,0.00072450185
+United States,no_license_intensity,6,0.0008512253
+United States,no_license_intensity,7,0.0007825057
+United States,no_license_intensity,8,0.00076320034
+United States,no_license_intensity,9,0.0007534059
+United States,no_license_intensity,10,0.0007188944
+United States,no_license_intensity,11,0.0007188944
+United States,no_license_intensity,12,0.0006541977
+United States,no_tax_rate,1,0.0018899739
+United States,no_tax_rate,2,0.0009369547
+United States,no_tax_rate,3,0.00084500056
+United States,no_tax_rate,4,0.00094401336
+United States,no_tax_rate,5,0.0008241253
+United States,no_tax_rate,6,0.0008436977
+United States,no_tax_rate,7,0.00089486624
+United States,no_tax_rate,8,0.00087432115
+United States,no_tax_rate,9,0.0009103022
+United States,no_tax_rate,10,0.00086300314
+United States,no_tax_rate,11,0.00087432115
+United States,no_tax_rate,12,0.00086300314
+United States,no_aml_flag,1,0.0018196327
+United States,no_aml_flag,2,0.0006092779
+United States,no_aml_flag,3,0.00081843016
+United States,no_aml_flag,4,0.0007187024
+United States,no_aml_flag,5,0.00076634216
+United States,no_aml_flag,6,0.0007733568
+United States,no_aml_flag,7,0.0008052199
+United States,no_aml_flag,8,0.0007733568
+United States,no_aml_flag,9,0.00086656585
+United States,no_aml_flag,10,0.0007768855
+United States,no_aml_flag,11,0.0008670156
+United States,no_aml_flag,12,0.00079266226
+United States,no_aml_severity,1,0.002114509
+United States,no_aml_severity,2,0.0010721255
+United States,no_aml_severity,3,0.0011405576
+United States,no_aml_severity,4,0.0010562658
+United States,no_aml_severity,5,0.0011039056
+United States,no_aml_severity,6,0.0012286172
+United States,no_aml_severity,7,0.0011191819
+United States,no_aml_severity,8,0.0012281677
+United States,no_aml_severity,9,0.0012624838
+United States,no_aml_severity,10,0.0011191819
+United States,no_aml_severity,11,0.0011668217
+United States,no_aml_severity,12,0.0011191819
+United States,no_regulations,1,0.0018420239
+United States,no_regulations,2,0.0010855504
+United States,no_regulations,3,0.0011899635
+United States,no_regulations,4,0.0010935698
+United States,no_regulations,5,0.0011378756
+United States,no_regulations,6,0.0011717426
+United States,no_regulations,7,0.0011955033
+United States,no_regulations,8,0.0012160484
+United States,no_regulations,9,0.0012160484
+United States,no_regulations,10,0.0013379398
+United States,no_regulations,11,0.0011070457
+United States,no_regulations,12,0.0011955033
+United States,max_regulations,1,0.0029658005
+United States,max_regulations,2,0.002087172
+United States,max_regulations,3,0.0020370027
+United States,max_regulations,4,0.0019337195
+United States,max_regulations,5,0.0019450579
+United States,max_regulations,6,0.0019907965
+United States,max_regulations,7,0.00172763
+United States,max_regulations,8,0.0017308368
+United States,max_regulations,9,0.0017421547
+United States,max_regulations,10,0.0018106418
+United States,max_regulations,11,0.0018938273
+United States,max_regulations,12,0.0018374157
+United States,no_tax_no_aml,1,0.0022057553
+United States,no_tax_no_aml,2,0.0011315086
+United States,no_tax_no_aml,3,0.0012472398
+United States,no_tax_no_aml,4,0.0012908139
+United States,no_tax_no_aml,5,0.0011746067
+United States,no_tax_no_aml,6,0.0012375228
+United States,no_tax_no_aml,7,0.0013799593
+United States,no_tax_no_aml,8,0.0012798653
+United States,no_tax_no_aml,9,0.0012104281
+United States,no_tax_no_aml,10,0.0011490652
+United States,no_tax_no_aml,11,0.0012375228
+United States,no_tax_no_aml,12,0.0012735039
+United States,no_license_no_ban,1,0.001455899
+United States,no_license_no_ban,2,0.0007354068
+United States,no_license_no_ban,3,0.0007359236
+United States,no_license_no_ban,4,0.00068852084
+United States,no_license_no_ban,5,0.00072450185
+United States,no_license_no_ban,6,0.00082499604
+United States,no_license_no_ban,7,0.0008512253
+United States,no_license_no_ban,8,0.0007381998
+United States,no_license_no_ban,9,0.00071556045
+United States,no_license_no_ban,10,0.00082499604
+United States,no_license_no_ban,11,0.00071556045
+United States,no_license_no_ban,12,0.00071556045
+United States,United States_with_Russia_policies,1,0.002421245
+United States,United States_with_Russia_policies,2,0.0016467923
+United States,United States_with_Russia_policies,3,0.0015304695
+United States,United States_with_Russia_policies,4,0.0013380575
+United States,United States_with_Russia_policies,5,0.0013324688
+United States,United States_with_Russia_policies,6,0.0013769352
+United States,United States_with_Russia_policies,7,0.0014511717
+United States,United States_with_Russia_policies,8,0.0015125177
+United States,United States_with_Russia_policies,9,0.0014666077
+United States,United States_with_Russia_policies,10,0.0013102129
+United States,United States_with_Russia_policies,11,0.0014666077
+United States,United States_with_Russia_policies,12,0.0013713465
+United States,United States_with_Indonesia_policies,1,0.0025099306
+United States,United States_with_Indonesia_policies,2,0.0016493914
+United States,United States_with_Indonesia_policies,3,0.0015152128
+United States,United States_with_Indonesia_policies,4,0.0015742228
+United States,United States_with_Indonesia_policies,5,0.0014309209
+United States,United States_with_Indonesia_policies,6,0.001628566
+United States,United States_with_Indonesia_policies,7,0.0013949579
+United States,United States_with_Indonesia_policies,8,0.0013589767
+United States,United States_with_Indonesia_policies,9,0.0014751839
+United States,United States_with_Indonesia_policies,10,0.0013795219
+United States,United States_with_Indonesia_policies,11,0.0014003163
+United States,United States_with_Indonesia_policies,12,0.0014605314
+Russia,baseline,1,0.0059595234
+Russia,baseline,2,0.0065940786
+Russia,baseline,3,0.0066204425
+Russia,baseline,4,0.006462262
+Russia,baseline,5,0.006444788
+Russia,baseline,6,0.006584429
+Russia,baseline,7,0.0065872613
+Russia,baseline,8,0.006586312
+Russia,baseline,9,0.006546967
+Russia,baseline,10,0.006546967
+Russia,baseline,11,0.006639099
+Russia,baseline,12,0.0063662212
+Russia,no_classified_as_commodity,1,0.0059595234
+Russia,no_classified_as_commodity,2,0.006533315
+Russia,no_classified_as_commodity,3,0.006414027
+Russia,no_classified_as_commodity,4,0.006605294
+Russia,no_classified_as_commodity,5,0.00668199
+Russia,no_classified_as_commodity,6,0.006475084
+Russia,no_classified_as_commodity,7,0.006428992
+Russia,no_classified_as_commodity,8,0.006639099
+Russia,no_classified_as_commodity,9,0.0064913924
+Russia,no_classified_as_commodity,10,0.006546967
+Russia,no_classified_as_commodity,11,0.006428992
+Russia,no_classified_as_commodity,12,0.0065270686
+Russia,no_classified_as_DFA,1,0.006011972
+Russia,no_classified_as_DFA,2,0.006620298
+Russia,no_classified_as_DFA,3,0.006596761
+Russia,no_classified_as_DFA,4,0.006682601
+Russia,no_classified_as_DFA,5,0.0064431075
+Russia,no_classified_as_DFA,6,0.0067214784
+Russia,no_classified_as_DFA,7,0.0066374186
+Russia,no_classified_as_DFA,8,0.0065855808
+Russia,no_classified_as_DFA,9,0.0065074963
+Russia,no_classified_as_DFA,10,0.0065795174
+Russia,no_classified_as_DFA,11,0.0064543462
+Russia,no_classified_as_DFA,12,0.0065795174
+Russia,no_exchange_license_required,1,0.0059595234
+Russia,no_exchange_license_required,2,0.0065940786
+Russia,no_exchange_license_required,3,0.0064411215
+Russia,no_exchange_license_required,4,0.006630152
+Russia,no_exchange_license_required,5,0.006409112
+Russia,no_exchange_license_required,6,0.00666808
+Russia,no_exchange_license_required,7,0.0065506357
+Russia,no_exchange_license_required,8,0.006639099
+Russia,no_exchange_license_required,9,0.006551585
+Russia,no_exchange_license_required,10,0.006452617
+Russia,no_exchange_license_required,11,0.0064018974
+Russia,no_exchange_license_required,12,0.0065624034
+Russia,no_license_intensity,1,0.0055811987
+Russia,no_license_intensity,2,0.006075669
+Russia,no_license_intensity,3,0.0062031318
+Russia,no_license_intensity,4,0.0062184567
+Russia,no_license_intensity,5,0.0061004814
+Russia,no_license_intensity,6,0.0061275214
+Russia,no_license_intensity,7,0.0062880274
+Russia,no_license_intensity,8,0.0061822734
+Russia,no_license_intensity,9,0.006154616
+Russia,no_license_intensity,10,0.006272591
+Russia,no_license_intensity,11,0.006272591
+Russia,no_license_intensity,12,0.0063128853
+Russia,no_tax_rate,1,0.0059595234
+Russia,no_tax_rate,2,0.0063999034
+Russia,no_tax_rate,3,0.0066352966
+Russia,no_tax_rate,4,0.006594476
+Russia,no_tax_rate,5,0.00668199
+Russia,no_tax_rate,6,0.0064479895
+Russia,no_tax_rate,7,0.006639099
+Russia,no_tax_rate,8,0.006603423
+Russia,no_tax_rate,9,0.006546967
+Russia,no_tax_rate,10,0.006586312
+Russia,no_tax_rate,11,0.0064018974
+Russia,no_tax_rate,12,0.0064018974
+Russia,no_aml_flag,1,0.0059595234
+Russia,no_aml_flag,2,0.00652454
+Russia,no_aml_flag,3,0.0066352966
+Russia,no_aml_flag,4,0.0065541817
+Russia,no_aml_flag,5,0.006589858
+Russia,no_aml_flag,6,0.00651076
+Russia,no_aml_flag,7,0.006546967
+Russia,no_aml_flag,8,0.0064018974
+Russia,no_aml_flag,9,0.0064018974
+Russia,no_aml_flag,10,0.006586312
+Russia,no_aml_flag,11,0.0064018974
+Russia,no_aml_flag,12,0.0065536285
+Russia,no_aml_severity,1,0.0064774114
+Russia,no_aml_severity,2,0.006650738
+Russia,no_aml_severity,3,0.00686926
+Russia,no_aml_severity,4,0.0068005896
+Russia,no_aml_severity,5,0.0068713557
+Russia,no_aml_severity,6,0.006972603
+Russia,no_aml_severity,7,0.0068684006
+Russia,no_aml_severity,8,0.006855115
+Russia,no_aml_severity,9,0.0068525034
+Russia,no_aml_severity,10,0.0066198763
+Russia,no_aml_severity,11,0.0066684517
+Russia,no_aml_severity,12,0.0066198763
+Russia,no_payment_ban,1,0.005739906
+Russia,no_payment_ban,2,0.0063663195
+Russia,no_payment_ban,3,0.006366481
+Russia,no_payment_ban,4,0.006311402
+Russia,no_payment_ban,5,0.006421639
+Russia,no_payment_ban,6,0.006431524
+Russia,no_payment_ban,7,0.006387035
+Russia,no_payment_ban,8,0.0064305863
+Russia,no_payment_ban,9,0.0062685115
+Russia,no_payment_ban,10,0.0064305863
+Russia,no_payment_ban,11,0.0063787485
+Russia,no_payment_ban,12,0.006387035
+Russia,no_regulations,1,0.0059112087
+Russia,no_regulations,2,0.006111858
+Russia,no_regulations,3,0.006149302
+Russia,no_regulations,4,0.0062071574
+Russia,no_regulations,5,0.0062013566
+Russia,no_regulations,6,0.006385192
+Russia,no_regulations,7,0.0062136385
+Russia,no_regulations,8,0.0063148644
+Russia,no_regulations,9,0.006299428
+Russia,no_regulations,10,0.0062683905
+Russia,no_regulations,11,0.0062136385
+Russia,no_regulations,12,0.006299428
+Russia,max_regulations,1,0.0068389587
+Russia,max_regulations,2,0.007233841
+Russia,max_regulations,3,0.0074914317
+Russia,max_regulations,4,0.007556009
+Russia,max_regulations,5,0.007556009
+Russia,max_regulations,6,0.0073699364
+Russia,max_regulations,7,0.0072030737
+Russia,max_regulations,8,0.0071087233
+Russia,max_regulations,9,0.0073529724
+Russia,max_regulations,10,0.007243368
+Russia,max_regulations,11,0.0070850984
+Russia,max_regulations,12,0.0070850984
+Russia,no_tax_no_aml,1,0.0064774114
+Russia,no_tax_no_aml,2,0.0067687132
+Russia,no_tax_no_aml,3,0.006769166
+Russia,no_tax_no_aml,4,0.006828396
+Russia,no_tax_no_aml,5,0.0067837983
+Russia,no_tax_no_aml,6,0.006728739
+Russia,no_tax_no_aml,7,0.0068006655
+Russia,no_tax_no_aml,8,0.0066469708
+Russia,no_tax_no_aml,9,0.0067803822
+Russia,no_tax_no_aml,10,0.0068006655
+Russia,no_tax_no_aml,11,0.0066198763
+Russia,no_tax_no_aml,12,0.006764946
+Russia,no_license_no_ban,1,0.0053113354
+Russia,no_license_no_ban,2,0.005779039
+Russia,no_license_no_ban,3,0.0058201975
+Russia,no_license_no_ban,4,0.0058509586
+Russia,no_license_no_ban,5,0.00605183
+Russia,no_license_no_ban,6,0.0060541267
+Russia,no_license_no_ban,7,0.0059637884
+Russia,no_license_no_ban,8,0.0061059645
+Russia,no_license_no_ban,9,0.0059637884
+Russia,no_license_no_ban,10,0.0058779987
+Russia,no_license_no_ban,11,0.0061059645
+Russia,no_license_no_ban,12,0.0059438897
+Russia,Russia_with_United_States_policies,1,0.0057441345
+Russia,Russia_with_United_States_policies,2,0.0061847446
+Russia,Russia_with_United_States_policies,3,0.006291794
+Russia,Russia_with_United_States_policies,4,0.0064263144
+Russia,Russia_with_United_States_policies,5,0.0063514123
+Russia,Russia_with_United_States_policies,6,0.0062580504
+Russia,Russia_with_United_States_policies,7,0.0061762817
+Russia,Russia_with_United_States_policies,8,0.006203376
+Russia,Russia_with_United_States_policies,9,0.006217765
+Russia,Russia_with_United_States_policies,10,0.006203376
+Russia,Russia_with_United_States_policies,11,0.0064042476
+Russia,Russia_with_United_States_policies,12,0.006203376
+Russia,Russia_with_Indonesia_policies,1,0.006672958
+Russia,Russia_with_Indonesia_policies,2,0.006866905
+Russia,Russia_with_Indonesia_policies,3,0.006937468
+Russia,Russia_with_Indonesia_policies,4,0.0071169026
+Russia,Russia_with_Indonesia_policies,5,0.006989426
+Russia,Russia_with_Indonesia_policies,6,0.0071428255
+Russia,Russia_with_Indonesia_policies,7,0.006830893
+Russia,Russia_with_Indonesia_policies,8,0.0067760483
+Russia,Russia_with_Indonesia_policies,9,0.0066217757
+Russia,Russia_with_Indonesia_policies,10,0.0067760483
+Russia,Russia_with_Indonesia_policies,11,0.0065558846
+Russia,Russia_with_Indonesia_policies,12,0.006649972
+Indonesia,baseline,1,0.0056640874
+Indonesia,baseline,2,0.00594619
+Indonesia,baseline,3,0.0057765325
+Indonesia,baseline,4,0.005794548
+Indonesia,baseline,5,0.0057674535
+Indonesia,baseline,6,0.0059801163
+Indonesia,baseline,7,0.005524801
+Indonesia,baseline,8,0.005590692
+Indonesia,baseline,9,0.0057242857
+Indonesia,baseline,10,0.005590692
+Indonesia,baseline,11,0.0055518956
+Indonesia,baseline,12,0.005590692
+Indonesia,no_classified_as_commodity,1,0.0056640874
+Indonesia,no_classified_as_commodity,2,0.006057481
+Indonesia,no_classified_as_commodity,3,0.0057765325
+Indonesia,no_classified_as_commodity,4,0.0060038934
+Indonesia,no_classified_as_commodity,5,0.0059520556
+Indonesia,no_classified_as_commodity,6,0.0058258423
+Indonesia,no_classified_as_commodity,7,0.005590692
+Indonesia,no_classified_as_commodity,8,0.005590692
+Indonesia,no_classified_as_commodity,9,0.0057242857
+Indonesia,no_classified_as_commodity,10,0.005744966
+Indonesia,no_classified_as_commodity,11,0.0053248554
+Indonesia,no_classified_as_commodity,12,0.005744966
+Indonesia,no_classified_as_DFA,1,0.0057460726
+Indonesia,no_classified_as_DFA,2,0.006139466
+Indonesia,no_classified_as_DFA,3,0.005924409
+Indonesia,no_classified_as_DFA,4,0.00591533
+Indonesia,no_classified_as_DFA,5,0.006034041
+Indonesia,no_classified_as_DFA,6,0.0060783764
+Indonesia,no_classified_as_DFA,7,0.0056726774
+Indonesia,no_classified_as_DFA,8,0.0058269515
+Indonesia,no_classified_as_DFA,9,0.005628371
+Indonesia,no_classified_as_DFA,10,0.0058432263
+Indonesia,no_classified_as_DFA,11,0.0058269515
+Indonesia,no_classified_as_DFA,12,0.005900993
+Indonesia,no_exchange_license_required,1,0.0056640874
+Indonesia,no_exchange_license_required,2,0.0057531195
+Indonesia,no_exchange_license_required,3,0.0057765325
+Indonesia,no_exchange_license_required,4,0.0057674535
+Indonesia,no_exchange_license_required,5,0.0059876186
+Indonesia,no_exchange_license_required,6,0.0058412785
+Indonesia,no_exchange_license_required,7,0.005590692
+Indonesia,no_exchange_license_required,8,0.005546386
+Indonesia,no_exchange_license_required,9,0.005590692
+Indonesia,no_exchange_license_required,10,0.005744966
+Indonesia,no_exchange_license_required,11,0.0055518956
+Indonesia,no_exchange_license_required,12,0.0055518956
+Indonesia,no_license_intensity,1,0.0053006858
+Indonesia,no_license_intensity,2,0.005572916
+Indonesia,no_license_intensity,3,0.0056868205
+Indonesia,no_license_intensity,4,0.005698259
+Indonesia,no_license_intensity,5,0.0054699434
+Indonesia,no_license_intensity,6,0.0054236446
+Indonesia,no_license_intensity,7,0.0055373744
+Indonesia,no_license_intensity,8,0.0052431677
+Indonesia,no_license_intensity,9,0.0049135596
+Indonesia,no_license_intensity,10,0.005324495
+Indonesia,no_license_intensity,11,0.005309059
+Indonesia,no_license_intensity,12,0.0054796077
+Indonesia,no_tax_rate,1,0.005016431
+Indonesia,no_tax_rate,2,0.005088193
+Indonesia,no_tax_rate,3,0.0051091523
+Indonesia,no_tax_rate,4,0.005047575
+Indonesia,no_tax_rate,5,0.0050958544
+Indonesia,no_tax_rate,6,0.0050580744
+Indonesia,no_tax_rate,7,0.005212746
+Indonesia,no_tax_rate,8,0.004976306
+Indonesia,no_tax_rate,9,0.0050034006
+Indonesia,no_tax_rate,10,0.0051173344
+Indonesia,no_tax_rate,11,0.005042197
+Indonesia,no_tax_rate,12,0.005212746
+Indonesia,no_aml_flag,1,0.0056640874
+Indonesia,no_aml_flag,2,0.0058073523
+Indonesia,no_aml_flag,3,0.0057765325
+Indonesia,no_aml_flag,4,0.005985026
+Indonesia,no_aml_flag,5,0.0057890383
+Indonesia,no_aml_flag,6,0.0058258423
+Indonesia,no_aml_flag,7,0.005524801
+Indonesia,no_aml_flag,8,0.0055518956
+Indonesia,no_aml_flag,9,0.0055518956
+Indonesia,no_aml_flag,10,0.0055518956
+Indonesia,no_aml_flag,11,0.005590692
+Indonesia,no_aml_flag,12,0.005590692
+Indonesia,no_aml_severity,1,0.0056640874
+Indonesia,no_aml_severity,2,0.005726025
+Indonesia,no_aml_severity,3,0.0058424235
+Indonesia,no_aml_severity,4,0.0059520556
+Indonesia,no_aml_severity,5,0.0058333445
+Indonesia,no_aml_severity,6,0.0058258423
+Indonesia,no_aml_severity,7,0.005590692
+Indonesia,no_aml_severity,8,0.005590692
+Indonesia,no_aml_severity,9,0.005546386
+Indonesia,no_aml_severity,10,0.0055518956
+Indonesia,no_aml_severity,11,0.005590692
+Indonesia,no_aml_severity,12,0.005709403
+Indonesia,no_regulations,1,0.0047073453
+Indonesia,no_regulations,2,0.004582674
+Indonesia,no_regulations,3,0.0046386453
+Indonesia,no_regulations,4,0.004523357
+Indonesia,no_regulations,5,0.0045621535
+Indonesia,no_regulations,6,0.0046094945
+Indonesia,no_regulations,7,0.0045436034
+Indonesia,no_regulations,8,0.0046094945
+Indonesia,no_regulations,9,0.004565188
+Indonesia,no_regulations,10,0.0046094945
+Indonesia,no_regulations,11,0.004570698
+Indonesia,no_regulations,12,0.0045983554
+Indonesia,max_regulations,1,0.006054723
+Indonesia,max_regulations,2,0.00651451
+Indonesia,max_regulations,3,0.0064525944
+Indonesia,max_regulations,4,0.006541592
+Indonesia,max_regulations,5,0.006633724
+Indonesia,max_regulations,6,0.0065146694
+Indonesia,max_regulations,7,0.0063481657
+Indonesia,max_regulations,8,0.00614973
+Indonesia,max_regulations,9,0.005897127
+Indonesia,max_regulations,10,0.00614973
+Indonesia,max_regulations,11,0.006317238
+Indonesia,max_regulations,12,0.0063151955
+Indonesia,no_tax_no_aml,1,0.005016431
+Indonesia,no_tax_no_aml,2,0.0051152874
+Indonesia,no_tax_no_aml,3,0.005132532
+Indonesia,no_tax_no_aml,4,0.00504937
+Indonesia,no_tax_no_aml,5,0.0050764647
+Indonesia,no_tax_no_aml,6,0.0052658687
+Indonesia,no_tax_no_aml,7,0.005021271
+Indonesia,no_tax_no_aml,8,0.005065577
+Indonesia,no_tax_no_aml,9,0.005236126
+Indonesia,no_tax_no_aml,10,0.005065577
+Indonesia,no_tax_no_aml,11,0.005184288
+Indonesia,no_tax_no_aml,12,0.005065577
+Indonesia,no_license_no_ban,1,0.0053006858
+Indonesia,no_license_no_ban,2,0.005636313
+Indonesia,no_license_no_ban,3,0.0054944586
+Indonesia,no_license_no_ban,4,0.0054040523
+Indonesia,no_license_no_ban,5,0.0054040523
+Indonesia,no_license_no_ban,6,0.005462441
+Indonesia,no_license_no_ban,7,0.0054426524
+Indonesia,no_license_no_ban,8,0.0054796077
+Indonesia,no_license_no_ban,9,0.0052647525
+Indonesia,no_license_no_ban,10,0.005309059
+Indonesia,no_license_no_ban,11,0.0052431677
+Indonesia,no_license_no_ban,12,0.0052702622
+Indonesia,Indonesia_with_United_States_policies,1,0.0050581507
+Indonesia,Indonesia_with_United_States_policies,2,0.0054514995
+Indonesia,Indonesia_with_United_States_policies,3,0.005669096
+Indonesia,Indonesia_with_United_States_policies,4,0.0054805917
+Indonesia,Indonesia_with_United_States_policies,5,0.0054147006
+Indonesia,Indonesia_with_United_States_policies,6,0.00555924
+Indonesia,Indonesia_with_United_States_policies,7,0.005466194
+Indonesia,Indonesia_with_United_States_policies,8,0.005466194
+Indonesia,Indonesia_with_United_States_policies,9,0.005466194
+Indonesia,Indonesia_with_United_States_policies,10,0.0053758556
+Indonesia,Indonesia_with_United_States_policies,11,0.005518032
+Indonesia,Indonesia_with_United_States_policies,12,0.0053099645
+Indonesia,Indonesia_with_Russia_policies,1,0.0052721086
+Indonesia,Indonesia_with_Russia_policies,2,0.00579169
+Indonesia,Indonesia_with_Russia_policies,3,0.0058650253
+Indonesia,Indonesia_with_Russia_policies,4,0.0057420013
+Indonesia,Indonesia_with_Russia_policies,5,0.005818697
+Indonesia,Indonesia_with_Russia_policies,6,0.0057959566
+Indonesia,Indonesia_with_Russia_policies,7,0.005554766
+Indonesia,Indonesia_with_Russia_policies,8,0.0056650974
+Indonesia,Indonesia_with_Russia_policies,9,0.0056650974
+Indonesia,Indonesia_with_Russia_policies,10,0.0055115037
+Indonesia,Indonesia_with_Russia_policies,11,0.0056212903
+Indonesia,Indonesia_with_Russia_policies,12,0.005480683
